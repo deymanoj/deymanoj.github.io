@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Manoj Dey"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoctoral Researcher"
+  bio              : "Postdoctoral Researcher at Fritz-Haber-Institut of the Max-Planck Gesellschaft"
   location         : "Berlin, Germany"
-  employer         : "Fritz-Haber-Institut of the Max-Planck Gesellschaft"
+#  employer         : ""
   uri              : # URL
   email            : "dey@fhi-berlin.mpg.de" 
 
