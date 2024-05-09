@@ -19,8 +19,4 @@ You can also find my articles on <a href="{{https://scholar.google.com/citations
 5) A. Singh, M. Dey, and A. K. Singh, Origin of Layer-dependent Electrical Conductivity of Transition Metal Dichalcogenides, Phys. Rev. B 105, 165430 (2022)
 
 6) M. Dey, A. Singh, and A. K. Singh, Formation of Small Electron Polaron in Tantalum Oxynitride: Origin of Low Mobility, J. Phys. Chem. C 125, 11548-11554 (2021) 
-{% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
