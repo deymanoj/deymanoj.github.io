@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 {% include base_path %}
-You can also find my articles on <a href="{{https://scholar.google.com/citations?user=igEWlvsAAAAJ}}">my Google Scholar profile</a>.
+You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=igEWlvsAAAAJ).
 
 1) V. Panwar, **M. Dey**, P. Sharma, S. Karthick, S. Nandi, R. Tripathi, A. Mondal, S. K. Makineni, A. Shukla, A. K. Singh, A. Misra, “Ultrahigh photo-responsivity and detectivity in two-dimensional bismuth sulphide photodetector for Vis-NIR radiation", Small, e2309428 (2024) 
 
