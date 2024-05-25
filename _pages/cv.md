@@ -9,45 +9,30 @@ redirect_from:
 
 {% include base_path %}
 
+<div align="center"> Manoj Dey, PhD </div>
+<div align="center"> dey@fhi-berlin.mpg.de | https://deymanoj.github.io </div>
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D., Computational Materials Science, Materials Research Centre, Indian Institute of Science, Bangalore, India (2018 - 2024)
+* M.Sc. in Physics, The University of Burdwan, (2015 - 2017)
+* B.Sc. in Physics, Bankura Christian College, (2012-2015)
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fritz Haber Institute of the Max Planck Gesellschaft, Berlin, Germany  
+Postdoctoral Associate, 2024 - Present 
+  * Postdoc with the NOMAD Laboratory. 
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python, Bash, High performance computing, Git, LaTeX
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* [Google Scholar](https://scholar.google.com/citations?user=igEWlvsAAAAJ)
+
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
@@ -61,4 +46,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
