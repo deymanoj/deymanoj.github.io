@@ -7,9 +7,11 @@ author_profile: true
 {% include base_path %}
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=igEWlvsAAAAJ).
 
+11) S. Meher, **M. Dey** and A. K. Singh, Origin of Bright Quantum Emissions with High Debye-Waller factor in Silicon Nitride, [Arxiv](https://doi.org/10.48550/arXiv.2512.01569)
+
 10) N.Maity, S. Meher, **M. Dey**, and A. K. Singh, Persistence of Layer-Tolerant Defect Levels in ReS$_2$, [Arxiv](https://doi.org/10.48550/arXiv.2510.18464)
 
-9) S. Meher, **M. Dey** and A. K. Singh, High-throughput Computational Search for Group-IV-related Quantum Defects as Spin-photon Interfaces in 4H-SiC, [Just Accepted, Phys. Rev. B (2025)](https://doi.org/10.1103/lsxj-nvhw), [Chemrxiv](http://dx.doi.org/10.26434/chemrxiv-2025-7whnf)
+9) S. Meher, **M. Dey** and A. K. Singh, High-throughput Computational Search for Group-IV-related Quantum Defects as Spin-photon Interfaces in 4H-SiC, [Phys. Rev. B 112, 184112 (2025)](https://doi.org/10.1103/lsxj-nvhw)
 
 8) I. G. Shanmugapriya, **M. Dey**, M. Liang, D. Borah, A. K. Singh, P. S. Halasyamani, M. Shanmugam, S. Natarajan, The Dugganite Structure as a Host for New Colored Compounds and for Oxygen Evolution Studies, [Chem. - Eur. J., e202501300 (2025)](https://doi.org/10.1002/chem.202501300)
 
