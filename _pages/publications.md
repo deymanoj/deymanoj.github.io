@@ -7,9 +7,11 @@ author_profile: true
 {% include base_path %}
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=igEWlvsAAAAJ).
 
-11) N.Maity, S. Meher, **M. Dey**, and A. K. Singh, Persistence of Layer-Tolerant Defect Levels in ReS$_2$, [Arxiv](https://doi.org/10.48550/arXiv.2510.18464)
+12) **M. Dey**, S. Meher, and A. K. Singh, Synergistic Interplay between Surface Polarons and Adsorbates for Photocatalytic Nitrogen Reduction on TiO₂(110), [Arxiv](https://doi.org/10.48550/arXiv.2604.09291)
 
-10) S. Meher, **M. Dey** and A. K. Singh, Origin of Bright Quantum Emissions with a High Debye–Waller Factor in Silicon Nitride, [Just Accepted, Nano Lett. (2026)](https://doi.org/10.1021/acs.nanolett.5c06190)
+11) N.Maity, S. Meher, **M. Dey**, and A. K. Singh, Persistence of Layer-Tolerant Defect Levels in ReS$_2$, [Just Accepted, Phys. Rev. B (2026)](https://doi.org/10.1103/nfjc-86x8) [Arxiv](https://doi.org/10.48550/arXiv.2510.18464)
+
+10) S. Meher, **M. Dey** and A. K. Singh, Origin of Bright Quantum Emissions with a High Debye–Waller Factor in Silicon Nitride, [Nano Lett., 26, 13, 4348–4352 (2026)](https://doi.org/10.1021/acs.nanolett.5c06190)
 
 9) S. Meher, **M. Dey** and A. K. Singh, High-throughput Computational Search for Group-IV-related Quantum Defects as Spin-photon Interfaces in 4H-SiC, [Phys. Rev. B 112, 184112 (2025)](https://doi.org/10.1103/lsxj-nvhw)
 
