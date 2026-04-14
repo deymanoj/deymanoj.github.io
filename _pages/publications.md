@@ -13,11 +13,11 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 10) S. Meher, **M. Dey** and A. K. Singh, Origin of Bright Quantum Emissions with a High Debye–Waller Factor in Silicon Nitride, [Nano Lett., 26, 13, 4348–4352 (2026)](https://doi.org/10.1021/acs.nanolett.5c06190)
 
-9) S. Meher, **M. Dey** and A. K. Singh, High-throughput Computational Search for Group-IV-related Quantum Defects as Spin-photon Interfaces in 4H-SiC, [Phys. Rev. B 112, 184112 (2025)](https://doi.org/10.1103/lsxj-nvhw)
+9) S. Meher†, **M. Dey†** and A. K. Singh, High-throughput Computational Search for Group-IV-related Quantum Defects as Spin-photon Interfaces in 4H-SiC, [Phys. Rev. B 112, 184112 (2025)](https://doi.org/10.1103/lsxj-nvhw)
 
 8) I. G. Shanmugapriya, **M. Dey**, M. Liang, D. Borah, A. K. Singh, P. S. Halasyamani, M. Shanmugam, S. Natarajan, The Dugganite Structure as a Host for New Colored Compounds and for Oxygen Evolution Studies, [Chem. - Eur. J., e202501300 (2025)](https://doi.org/10.1002/chem.202501300)
 
-7) **M. Dey**, S. Meher, and A. K. Singh, Carbon with Stone-Wales defect as quantum emitter in ℎ-BN, [Phys. Rev. B, 111, 104109 (2025)](https://doi.org/10.1103/PhysRevB.111.104109)
+7) **M. Dey†**, S. Meher†, and A. K. Singh, Carbon with Stone-Wales defect as quantum emitter in ℎ-BN, [Phys. Rev. B, 111, 104109 (2025)](https://doi.org/10.1103/PhysRevB.111.104109)
 
 6) V. Panwar, **M. Dey**, P. Sharma, S. Karthick, S. Nandi, R. Tripathi, A. Mondal, S. K. Makineni, A. Shukla, A. K. Singh, A. Misra, Ultrahigh photo-responsivity and detectivity in two-dimensional bismuth sulphide photodetector for Vis-NIR radiation, [Small, 20, 2309428 (2024)](https://doi.org/10.1002/smll.202309428)
 
