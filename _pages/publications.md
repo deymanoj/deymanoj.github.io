@@ -7,9 +7,11 @@ author_profile: true
 {% include base_path %}
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=igEWlvsAAAAJ).
 
-12) **M. Dey**, R. Kumar, and A. K. Singh, Synergistic Interplay between Surface Polarons and Adsorbates for Photocatalytic Nitrogen Reduction on TiO₂(110), [Arxiv](https://doi.org/10.48550/arXiv.2604.09291)
+13) **M. Dey**, R. Kumar, and A. K. Singh, Synergistic Interplay between Surface Polarons and Adsorbates for Photocatalytic Nitrogen Reduction on TiO<sub>2</sub>(110), [Arxiv](https://doi.org/10.48550/arXiv.2604.09291)
 
-11) N.Maity, S. Meher, **M. Dey**, and A. K. Singh, Persistence of Layer-Tolerant Defect Levels in ReS₂, [Phys. Rev. B 113, 184106 (2026)](https://doi.org/10.1103/nfjc-86x8)
+12) I. G. Shanmugapriya, K. V. Raj, **M. Dey**, S. K. Pati, A. K. Singh, S. Natarajan, Heterometallic Ludwigite M<sub>2.5</sub>T<sub>0.5</sub> (O<sub>2</sub>BO<sub>3</sub>) and (M<sub>2</sub>T)(O<sub>2</sub>BO<sub>3</sub>); (M = Co, Ni, Cu; T = Ti, Sn, Fe) Compounds as Electrocatalysts, [Just Accepted in Dalton Transactions (2026)](https://doi.org/10.1039/D6DT00815A)
+
+11) N.Maity, S. Meher, **M. Dey**, and A. K. Singh, Persistence of Layer-Tolerant Defect Levels in ReS<sub>2</sub>, [Phys. Rev. B 113, 184106 (2026)](https://doi.org/10.1103/nfjc-86x8)
 
 10) S. Meher, **M. Dey** and A. K. Singh, Origin of Bright Quantum Emissions with a High Debye–Waller Factor in Silicon Nitride, [Nano Lett., 26, 13, 4348–4352 (2026)](https://doi.org/10.1021/acs.nanolett.5c06190)
 
@@ -23,9 +25,9 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 5) **M. Dey**, N. Maity, and A. K. Singh, Chapter 12: Metal Oxide Nanostructures-Based Electronics. In: V. Kumar, I. Ayoub, V. Sharma, H. C. Swart (eds) Optical Properties of Metal Oxide Nanostructures. Progress in Optical Science and Photonics, vol 26. [Springer Nature Singapore, 371-397 (2023)](https://doi.org/10.1007/978-981-99-5640-1_12)
 
-4) **M. Dey** and A. K. Singh, Broad photoluminescence from large Frank-Condon relaxation dynamics of hole polarons in LiGaO₂,  [Phys. Rev. B 108, L041201 (2023)](https://doi.org/10.1103/PhysRevB.108.L041201)
+4) **M. Dey** and A. K. Singh, Broad photoluminescence from large Frank-Condon relaxation dynamics of hole polarons in LiGaO<sub>2</sub>,  [Phys. Rev. B 108, L041201 (2023)](https://doi.org/10.1103/PhysRevB.108.L041201)
 
-3) **M. Dey**, S. Chowdhury, S. Kumar, and A. K. Singh, Quantum Confinement Effect on Defect Level of Hydrogen Doped Rutile VO₂ Nanowires, [J. Appl. Phys. 131, 235702 (2022)](https://doi.org/10.1063/5.0095834)
+3) **M. Dey**, S. Chowdhury, S. Kumar, and A. K. Singh, Quantum Confinement Effect on Defect Level of Hydrogen Doped Rutile VO<sub>2</sub> Nanowires, [J. Appl. Phys. 131, 235702 (2022)](https://doi.org/10.1063/5.0095834)
 
 2) A. Singh, **M. Dey**, and A. K. Singh, Origin of Layer-dependent Electrical Conductivity of Transition Metal Dichalcogenides, [Phys. Rev. B 105, 165430 (2022)](https://doi.org/10.1103/PhysRevB.105.165430)
 
