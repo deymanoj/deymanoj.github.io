@@ -9,7 +9,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 13) **M. Dey**, R. Kumar, and A. K. Singh, Synergistic Interplay between Surface Polarons and Adsorbates for Photocatalytic Nitrogen Reduction on TiO<sub>2</sub>(110), [Arxiv](https://doi.org/10.48550/arXiv.2604.09291)
 
-12) I. G. Shanmugapriya, K. V. Raj, **M. Dey**, S. K. Pati, A. K. Singh, S. Natarajan, Heterometallic Ludwigite M<sub>2.5</sub>T<sub>0.5</sub> (O<sub>2</sub>BO<sub>3</sub>) and (M<sub>2</sub>T)(O<sub>2</sub>BO<sub>3</sub>); (M = Co, Ni, Cu; T = Ti, Sn, Fe) Compounds as Electrocatalysts, [Just Accepted in Dalton Transactions (2026)](https://doi.org/10.1039/D6DT00815A)
+12) I. G. Shanmugapriya, K. V. Raj, **M. Dey**, S. K. Pati, A. K. Singh, S. Natarajan, Heterometallic Ludwigite M<sub>2.5</sub>T<sub>0.5</sub> (O<sub>2</sub>BO<sub>3</sub>) and (M<sub>2</sub>T)(O<sub>2</sub>BO<sub>3</sub>); (M = Co, Ni, Cu; T = Ti, Sn, Fe) Compounds as Electrocatalysts, [Dalton Trans. 55, 10731–10746 (2026)](https://doi.org/10.1039/D6DT00815A)
 
 11) N.Maity, S. Meher, **M. Dey**, and A. K. Singh, Persistence of Layer-Tolerant Defect Levels in ReS<sub>2</sub>, [Phys. Rev. B 113, 184106 (2026)](https://doi.org/10.1103/nfjc-86x8)
 
